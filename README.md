@@ -9,7 +9,7 @@ Please cite the [Graph Data Quality  paper](https://rubabzs.github.io/files/qdb.
 
 ~~~~
 @InProceedings{sarfraz2024qdb,
-  title = {Vizard: Improving Visual Data Literacy with Large Language Models},
+  title = {Towards Semi-Supervised Data Quality Detection In Graphs},
   author = {Rubab Zahra Sarfraz},
   booktitle = {VLDB 2024 Workshop: 13th International Workshop on Quality In Databases (QDB 2024)},
   year = {2024},
